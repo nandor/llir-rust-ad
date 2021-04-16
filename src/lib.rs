@@ -38,6 +38,7 @@ mod ad {
           target_arch = "sparc64",
           target_arch = "x86",
           target_arch = "x86_64",
+          target_arch = "llir_x86_64",
           target_arch = "nvptx",
           target_arch = "nvptx64",
           target_arch = "xtensa"))]
